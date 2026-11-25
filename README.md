@@ -17,7 +17,7 @@ This project is currently under development. I'm building it step by step to imp
 - [x] Initial project setup
 - [x] Expo Router configuration
 - [x] Custom bottom tab navigation
-- [ ] Home screen UI
+- [x] Home screen UI
 - [ ] Movie listing
 - [ ] Movie details screen
 - [ ] Search functionality
